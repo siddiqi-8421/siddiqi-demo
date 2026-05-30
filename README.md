@@ -1,4 +1,4 @@
 # siddiqi-demo
 This is my first Repository
 <br>
-Author - Waizulhaq 
+Author - Waizulhaq (it's me)
